@@ -2,8 +2,8 @@
   "pluginType": "JS",
   "pluginId": "js-plugin",
   "unpublishedAction": {
-    "name": "sendImage",
-    "fullyQualifiedName": "UpLoadImageDireita.sendImage",
+    "name": "IdFotos",
+    "fullyQualifiedName": "atualizaIdFrente1.IdFotos",
     "datasource": {
       "name": "UNUSED_DATASOURCE",
       "pluginId": "js-plugin",
@@ -13,21 +13,16 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Semoventes",
-    "collectionId": "Semoventes_UpLoadImageDireita",
+    "pageId": "Inicio",
+    "collectionId": "Inicio_atualizaIdFrente1",
     "actionConfiguration": {
-      "timeoutInMillisecond": 10000,
+      "timeoutInMillisecond": 0,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
-      "jsArguments": [
-        {
-          "name": "identificadorPOPup"
-        }
-      ]
+      "jsArguments": []
     },
     "executeOnLoad": false,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -42,7 +37,7 @@
     "userPermissions": [],
     "createdAt": "2024-03-19T15:57:39Z"
   },
-  "id": "Semoventes_UpLoadImageDireita.sendImage",
+  "id": "Inicio_atualizaIdFrente1.IdFotos",
   "deleted": false,
-  "gitSyncId": "65b3d00d8ae32a1cc10a8f91_65b40f0bfd3ad648f0488d4f"
+  "gitSyncId": "65f886c00f108844aba2b2b0_65f886c70f108844aba2b33a"
 }
