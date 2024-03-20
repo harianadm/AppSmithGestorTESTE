@@ -9,10 +9,7 @@
     "defaultOptionValue": "",
     "animateLoading": true,
     "leftColumn": 2,
-    "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "borderRadius"}],
     "placeholderText": "Selecione o status do animal",
     "isDisabled": false,
     "isRequired": false,

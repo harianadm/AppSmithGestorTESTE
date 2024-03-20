@@ -9,10 +9,10 @@
     "resetOnSubmit": true,
     "leftColumn": 42.666666666666664,
     "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"},
         {"key": "defaultText"},
-        {"key": "validation"}
+        {"key": "validation"},
+        {"key": "accentColor"},
+        {"key": "borderRadius"}
     ],
     "labelStyle": "",
     "inputType": "TEXT",

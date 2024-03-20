@@ -20,6 +20,7 @@
     "animateLoading": true,
     "parentColumnSpace": 5.359619140625,
     "leftColumn": 33,
+    "dynamicBindingPathList": [],
     "children": [{
         "rightColumn": 343.015625,
         "widgetName": "Canvas6Copy",
@@ -44,7 +45,8 @@
         "minHeight": 141.9375,
         "renderMode": "CANVAS",
         "parentColumnSpace": 1,
-        "leftColumn": 0
+        "leftColumn": 0,
+        "dynamicBindingPathList": []
     }],
     "borderWidth": "1",
     "flexVerticalAlignment": "stretch",

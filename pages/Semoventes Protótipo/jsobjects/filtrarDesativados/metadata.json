@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "filtrarDesativados",
+    "pageId": "Semoventes Protótipo",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Semoventes Protótipo_filtrarDesativados",
+  "deleted": false,
+  "gitSyncId": "65f9c3730f108844aba2b3f0_65fb30720f108844aba2b605"
+}

@@ -27,7 +27,6 @@
       ]
     },
     "executeOnLoad": false,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -40,9 +39,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-02-29T21:18:24Z"
+    "createdAt": "2024-03-20T18:56:41Z"
   },
   "id": "Semoventes_filtrarDesativados.filtarPainel",
   "deleted": false,
-  "gitSyncId": "65b42e3df901ed0ce6ebf61f_65b57da5f901ed0ce6ebf660"
+  "gitSyncId": "65f9c3730f108844aba2b3f0_65fb31690f108844aba2b631"
 }

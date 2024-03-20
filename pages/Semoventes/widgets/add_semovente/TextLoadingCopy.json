@@ -21,11 +21,7 @@
     "dynamicTriggerPathList": [],
     "parentColumnSpace": 3.593994140625,
     "leftColumn": 44,
-    "dynamicBindingPathList": [
-        {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "fontFamily"}],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Imagem sendo carregada",

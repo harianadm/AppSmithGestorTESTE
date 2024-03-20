@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "mostraCompra",
+    "pageId": "Semoventes",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Semoventes_mostraCompra",
+  "deleted": false,
+  "gitSyncId": "65f9c3730f108844aba2b3f0_65fb2bbd0f108844aba2b5a2"
+}
