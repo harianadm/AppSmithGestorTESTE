@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "UpLoadImageDireita",
+    "pageId": "Semoventes Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "data",
+        "value": "{}"
+      },
+      {
+        "name": "url",
+        "value": "\"\""
+      },
+      {
+        "name": "id",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Semoventes Copy_UpLoadImageDireita",
+  "deleted": false,
+  "gitSyncId": "65f9cd890f108844aba2b47f_65f9dab30f108844aba2b564"
+}

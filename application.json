@@ -47,6 +47,18 @@
     {
       "id": "Unidades",
       "isDefault": false
+    },
+    {
+      "id": "Add consulta com id",
+      "isDefault": false
+    },
+    {
+      "id": "Add consulta sem id",
+      "isDefault": false
+    },
+    {
+      "id": "Semoventes Copy",
+      "isDefault": false
     }
   ],
   "viewMode": false,
