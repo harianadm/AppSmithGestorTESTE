@@ -47,6 +47,10 @@
     {
       "id": "Unidades",
       "isDefault": false
+    },
+    {
+      "id": "Cadastrar Usuario",
+      "isDefault": false
     }
   ],
   "viewMode": false,

@@ -1,0 +1,6 @@
+{
+	"data": {
+		"email": {{InseriEmail.text}},
+		"password" : {{InsereSenha.text}}
+	}
+}
