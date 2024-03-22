@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "UpLoadImageFrente",
+    "pageId": "Semoventes Copy Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "data",
+        "value": "{}"
+      },
+      {
+        "name": "url",
+        "value": "\"\""
+      },
+      {
+        "name": "id",
+        "value": "0"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Semoventes Copy Copy_UpLoadImageFrente",
+  "deleted": false,
+  "gitSyncId": "65f9cd890f108844aba2b47f_65fc76a70f108844aba2b76a"
+}

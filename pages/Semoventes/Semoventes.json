@@ -28,18 +28,6 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Semoventes_getDefaultValue.getDefaultValue",
-              "name": "getDefaultValue.getDefaultValue",
-              "collectionId": "Semoventes_getDefaultValue",
-              "clientSideExecution": true,
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "function (nome, data) {\n  let nomeValue = nome;\n  let selectedValue = \"\";\n  if (nomeValue) {\n    nomeValue = nomeValue?.toLowerCase();\n    for (const elemento of data) {\n      if (elemento?.Nome) if (elemento?.Nome.toLowerCase() === nomeValue) {\n        selectedValue = elemento;\n      }\n    }\n    if (selectedValue) {\n      return {\n        label: selectedValue.Nome,\n        value: selectedValue.id\n      };\n    }\n  }\n  return selectedValue;\n}"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
               "id": "Semoventes_get_name_estatistica",
               "name": "get_name_estatistica",
               "confirmBeforeExecute": false,

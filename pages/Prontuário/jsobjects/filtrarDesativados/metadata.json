@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "filtrarDesativados",
+    "pageId": "Prontuário",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Prontuário_filtrarDesativados",
+  "deleted": false,
+  "gitSyncId": "65f9cd890f108844aba2b47f_65f9dab30f108844aba2b56a"
+}

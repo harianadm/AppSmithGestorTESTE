@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "atualizaIdFrenteAdiciona",
+    "pageId": "Semoventes Copy Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "idFrente",
+        "value": "\"\""
+      },
+      {
+        "name": "idEsquerda",
+        "value": "\"\""
+      },
+      {
+        "name": "idDireita",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Semoventes Copy Copy_atualizaIdFrenteAdiciona",
+  "deleted": false,
+  "gitSyncId": "65f9cd890f108844aba2b47f_65fc76a70f108844aba2b77a"
+}

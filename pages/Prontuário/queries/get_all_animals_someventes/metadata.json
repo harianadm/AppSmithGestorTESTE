@@ -7,6 +7,7 @@
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
       "datasourceConfiguration": {
+        "sshProxyEnabled": false,
         "url": ""
       },
       "invalids": [],
@@ -52,7 +53,7 @@
         "apiContentType": "text/plain"
       }
     },
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "dynamicBindingPathList": [
       {
         "key": "headers[0].value"
@@ -71,10 +72,9 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2024-03-19T17:38:17Z"
+    "userPermissions": []
   },
   "id": "Prontuário_get_all_animals_someventes",
   "deleted": false,
-  "gitSyncId": "65c281a7ed663e5cca363ff4_65c524afed663e5cca364068"
+  "gitSyncId": "65f9cd890f108844aba2b47f_65f9dab30f108844aba2b532"
 }

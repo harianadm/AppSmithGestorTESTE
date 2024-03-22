@@ -1,0 +1,24 @@
+{
+  "unpublishedCollection": {
+    "name": "InfoPainelCopy",
+    "pageId": "ProntuárioOld",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "ProntuárioOld_InfoPainelCopy",
+  "deleted": false,
+  "gitSyncId": "65c281a7ed663e5cca363ff4_65d4d8a1c20f0956f327f0fa"
+}

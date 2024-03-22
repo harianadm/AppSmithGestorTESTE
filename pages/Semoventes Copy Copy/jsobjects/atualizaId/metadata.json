@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "atualizaId",
+    "pageId": "Semoventes Copy Copy",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "idFrente",
+        "value": "Table1.triggeredRow.Foto_frente.id"
+      },
+      {
+        "name": "idDireita",
+        "value": "Table1.triggeredRow.Foto_direita.id"
+      },
+      {
+        "name": "idEsquerda",
+        "value": "Table1.triggeredRow.Foto_esquerda.id"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Semoventes Copy Copy_atualizaId",
+  "deleted": false,
+  "gitSyncId": "65f9cd890f108844aba2b47f_65fc76a70f108844aba2b778"
+}

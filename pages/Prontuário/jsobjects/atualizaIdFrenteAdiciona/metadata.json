@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "atualizaIdFrenteAdiciona",
+    "pageId": "Prontuário",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "idFrente",
+        "value": "\"\""
+      },
+      {
+        "name": "idEsquerda",
+        "value": "\"\""
+      },
+      {
+        "name": "idDireita",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Prontuário_atualizaIdFrenteAdiciona",
+  "deleted": false,
+  "gitSyncId": "65f9cd890f108844aba2b47f_65f9dab30f108844aba2b56e"
+}

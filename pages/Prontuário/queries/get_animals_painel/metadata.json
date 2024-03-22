@@ -43,8 +43,24 @@
           "value": "Status_operacional"
         },
         {
+          "key": "fields[3]",
+          "value": "Racao_Diaria"
+        },
+        {
+          "key": "fields[4]",
+          "value": "Data_nascimento"
+        },
+        {
           "key": "fields[5]",
           "value": "id"
+        },
+        {
+          "key": "fields[6]",
+          "value": "box"
+        },
+        {
+          "key": "populate[0]",
+          "value": "Condutor_principal"
         },
         {
           "key": "fields[7]",
@@ -87,9 +103,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-03-19T17:38:17Z"
+    "createdAt": "2024-03-19T18:34:27Z"
   },
   "id": "Prontuário_get_animals_painel",
   "deleted": false,
-  "gitSyncId": "65c281a7ed663e5cca363ff4_65c5239aed663e5cca364066"
+  "gitSyncId": "65f9cd890f108844aba2b47f_65f9dab30f108844aba2b533"
 }
