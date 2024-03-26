@@ -39,11 +39,6 @@
       "bodyFormData": [
         {
           "key": "files",
-          "value": "{{Foto_frenteUpdate.files}}",
-          "type": "File"
-        },
-        {
-          "key": "files",
           "value": "{{Foto_frente.files}}",
           "type": "File"
         }
@@ -65,13 +60,10 @@
         "key": "headers[0].value"
       },
       {
-        "key": "bodyFormData[0].value"
-      },
-      {
-        "key": "bodyFormData[1].value"
-      },
-      {
         "key": "path"
+      },
+      {
+        "key": "bodyFormData[0].value"
       }
     ],
     "isValid": true,
@@ -79,7 +71,6 @@
     "messages": [],
     "jsonPathKeys": [
       "Foto_frente.files",
-      "Foto_frenteUpdate.files",
       "LinkUrl.url_api",
       "appsmith.store.jwt"
     ],
@@ -87,9 +78,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-03-19T16:55:21Z"
+    "createdAt": "2024-03-20T18:52:34Z"
   },
   "id": "Semoventes_upload_file_frente",
   "deleted": false,
-  "gitSyncId": "658f335424aefa7382701957_658ffc0d24aefa7382701986"
+  "gitSyncId": "65f9c3730f108844aba2b3f0_65fb30720f108844aba2b5eb"
 }

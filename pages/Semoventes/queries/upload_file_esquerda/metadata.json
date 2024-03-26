@@ -86,10 +86,9 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2024-03-19T16:55:21Z"
+    "userPermissions": []
   },
   "id": "Semoventes_upload_file_esquerda",
   "deleted": false,
-  "gitSyncId": "65b3d00d8ae32a1cc10a8f91_65b40d32fd3ad648f0488d47"
+  "gitSyncId": "65f9c3730f108844aba2b3f0_65fb30720f108844aba2b5bc"
 }

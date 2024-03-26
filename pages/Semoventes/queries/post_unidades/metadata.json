@@ -72,10 +72,9 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2024-03-19T16:55:21Z"
+    "userPermissions": []
   },
   "id": "Semoventes_post_unidades",
   "deleted": false,
-  "gitSyncId": "65c281a7ed663e5cca363ff4_65cf9fd76665a62d2f6a521c"
+  "gitSyncId": "65f9c3730f108844aba2b3f0_65fb30720f108844aba2b5dc"
 }

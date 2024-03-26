@@ -68,10 +68,9 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2024-03-19T16:55:21Z"
+    "userPermissions": []
   },
   "id": "Semoventes_delete_semovente",
   "deleted": false,
-  "gitSyncId": "65840affee8e4a451ee14f66_658df5b0b958b305ad022a66"
+  "gitSyncId": "65f9c3730f108844aba2b3f0_65fb30720f108844aba2b5d9"
 }
