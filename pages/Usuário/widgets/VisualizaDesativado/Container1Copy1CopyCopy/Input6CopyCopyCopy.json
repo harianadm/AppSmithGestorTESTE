@@ -63,6 +63,6 @@
     "maxDynamicHeight": 9000,
     "shouldAllowAutofill": false,
     "iconAlign": "left",
-    "defaultText": "{{usuariosDesativados.triggeredRow.rg}}",
+    "defaultText": "{{usuariosDesativados.triggeredRow.cpf}}",
     "minDynamicHeight": 4
 }

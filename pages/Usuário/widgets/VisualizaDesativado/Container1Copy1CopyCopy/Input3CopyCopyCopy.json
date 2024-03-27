@@ -62,6 +62,6 @@
     "mobileLeftColumn": 3,
     "maxDynamicHeight": 9000,
     "iconAlign": "left",
-    "defaultText": "{{usuariosDesativados.triggeredRow.Nome}}",
+    "defaultText": "{{usuariosDesativados.triggeredRow.username}}",
     "minDynamicHeight": 4
 }

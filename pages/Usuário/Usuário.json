@@ -29,8 +29,31 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Usuário_get",
-              "name": "get",
+              "id": "Usuário_getAllUsuario",
+              "name": "getAllUsuario",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "LinkUrl.url_api",
+                "appsmith.store.jwt"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Usuário_getDefaultValue.getDefaultValue",
+              "name": "getDefaultValue.getDefaultValue",
+              "collectionId": "Usuário_getDefaultValue",
+              "clientSideExecution": true,
+              "confirmBeforeExecute": false,
+              "pluginType": "JS",
+              "jsonPathKeys": [
+                "function (nome, data) {\n  let nomeValue = nome;\n  let selectedValue = \"\";\n  if (nomeValue) {\n    nomeValue = nomeValue?.toLowerCase();\n    for (const elemento of data) {\n      if (elemento?.name) if (elemento?.name.toLowerCase() === nomeValue) {\n        selectedValue = elemento;\n      }\n    }\n    if (selectedValue) {\n      return {\n        label: selectedValue.name,\n        value: selectedValue.id\n      };\n    }\n  }\n  return selectedValue;\n}"
+              ],
+              "timeoutInMillisecond": 10000
+            },
+            {
+              "id": "Usuário_getRoles",
+              "name": "getRoles",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [

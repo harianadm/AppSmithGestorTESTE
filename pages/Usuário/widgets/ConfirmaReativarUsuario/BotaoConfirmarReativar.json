@@ -3,8 +3,9 @@
     "boxShadow": "none",
     "mobileBottomRow": 22,
     "widgetName": "BotaoConfirmarReativar",
-    "onClick": "{{closeModal('ConfirmaReativarUsuario');}}",
+    "onClick": "{{reativaUsuario.run().then(() => {\n  showAlert('Usuário Reativado', 'success');\n  getAllUsuario.run();\n  closeModal('ConfirmaReativarUsuario');\n});}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+    "dynamicPropertyPathList": [],
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
     "searchTags": [
