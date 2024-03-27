@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 4,
     "widgetName": "Button1",
-    "onClick": "{{\natualizaIdFrenteAdiciona.idDireita= \"\";\n\tatualizaIdFrenteAdiciona.idFrente= \"\";\n\tatualizaIdFrenteAdiciona.idEsquerda= \"\";\nresetWidget(\"add_semovente\", true);\nshowModal('add_semovente');\n}}",
+    "onClick": "{{\natualizaIdFrenteAdiciona.idDireita= \"\";\n\tatualizaIdFrenteAdiciona.idFrente= \"\";\n\tatualizaIdFrenteAdiciona.idEsquerda= \"\";\nresetWidget(\"add_semoventeCopy\", true);\n\nstoreValue('tabSemovente', '1 - Informações do Semovente');\n\nshowModal('add_semoventeCopy');\n}}",
     "buttonColor": "rgb(48, 73, 136)",
     "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",

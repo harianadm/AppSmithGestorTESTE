@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 22,
     "widgetName": "CriarCopy1",
-    "onClick": "{{update_status_geral.run().then(() => {\n  resetWidget(\"Justificativa_Baixado\", true);\n  get_all_animals_someventes.run().then(() => {\n    filtrarDesativados.filtarPainel(get_all_animals_someventes.data.data);\n    showAlert('Remoção concluída', 'success');\n    closeModal('Justificativa_Baixado');\n  });\n  get_animals_painel.run();\n}).catch(() => {\n  showAlert('Erro, insira uma mensagem', 'error');\n});}}",
+    "onClick": "",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "dynamicPropertyPathList": [],
     "displayName": "Button",
