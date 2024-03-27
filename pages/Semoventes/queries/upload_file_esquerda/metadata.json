@@ -44,7 +44,7 @@
         },
         {
           "key": "files",
-          "value": "{{foto_esquerda.files}}",
+          "value": "{{Foto_esquerda.files}}",
           "type": "File"
         }
       ],
@@ -78,15 +78,16 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
+      "Foto_esquerda.files",
       "Foto_esquerdaUpdate.files",
       "LinkUrl.url_api",
-      "appsmith.store.jwt",
-      "foto_esquerda.files"
+      "appsmith.store.jwt"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-03-20T18:52:34Z"
   },
   "id": "Semoventes_upload_file_esquerda",
   "deleted": false,

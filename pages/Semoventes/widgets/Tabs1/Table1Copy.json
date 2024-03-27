@@ -1008,7 +1008,7 @@
         "customColumn2": {
             "boxShadow": "{{Table1Copy.processedTableData.map((currentRow, currentIndex) => ( \"none\"))}}",
             "computedValue": "",
-            "onClick": "{{showModal('Visualizar_Semovente');}}",
+            "onClick": "{{showModal('Visualizar_SemoventeCopy');}}",
             "buttonColor": "rgb(48, 73, 136)",
             "isEditable": false,
             "notation": "standard",

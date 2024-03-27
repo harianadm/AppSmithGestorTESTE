@@ -44,7 +44,7 @@
         },
         {
           "key": "files",
-          "value": "{{foto_direita.files}}",
+          "value": "{{Foto_direita.files}}",
           "type": "File"
         }
       ],
@@ -78,10 +78,10 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
+      "Foto_direita.files",
       "Foto_direitaUpdate.files",
       "LinkUrl.url_api",
-      "appsmith.store.jwt",
-      "foto_direita.files"
+      "appsmith.store.jwt"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,

@@ -39,8 +39,12 @@
       "bodyFormData": [
         {
           "key": "files",
-          "value": "{{Foto_frente.files}}",
+          "value": "{{Foto_frenteUpdate.files}}",
           "type": "File"
+        },
+        {
+          "key": "",
+          "value": "{{Foto_frente.files}}"
         }
       ],
       "httpMethod": "POST",
@@ -64,6 +68,9 @@
       },
       {
         "key": "bodyFormData[0].value"
+      },
+      {
+        "key": "bodyFormData[1].value"
       }
     ],
     "isValid": true,
@@ -71,6 +78,7 @@
     "messages": [],
     "jsonPathKeys": [
       "Foto_frente.files",
+      "Foto_frenteUpdate.files",
       "LinkUrl.url_api",
       "appsmith.store.jwt"
     ],

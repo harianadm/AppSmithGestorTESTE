@@ -35,7 +35,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-03-20T18:52:34Z"
   },
   "id": "Semoventes_Desabilitar_botoes.habilitaBotoes",
   "deleted": false,
