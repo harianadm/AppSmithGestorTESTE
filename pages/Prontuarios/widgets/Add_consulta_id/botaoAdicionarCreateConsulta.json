@@ -3,9 +3,9 @@
     "boxShadow": "none",
     "mobileBottomRow": 22,
     "widgetName": "botaoAdicionarCreateConsulta",
-    "onClick": "{{createConsulta.run().then(() => {\n  showAlert('Consulta Cadastrada com Sucesso', 'success');\n  closeModal('Add_consulta_id');\n  getAllConsultas.run().then(() => {\n    filtros.consultasDeUmCao(getAllConsultas, seletor_animal.selectedOptionValue);\n  });\n}).catch(() => {\n  showAlert('Erro!', 'error');\n});}}",
+    "onClick": "{{createConsulta.run().then(() => {\n  showAlert('Consulta Cadastrada com Sucesso', 'success');\n  closeModal('Add_consulta_id');\n\tfiltros.consultasDeUmCao(seletor_animal.selectedOptionValue);\n}).catch(() => {\n  showAlert('Erro!', 'error');\n});}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "dynamicPropertyPathList": [],
+    "dynamicPropertyPathList": [{"key": "onClick"}],
     "displayName": "Button",
     "iconSVG": "/static/media/icon.05d209fafeb13a8569e3b4e97069d9ee.svg",
     "searchTags": [

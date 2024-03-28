@@ -47,7 +47,7 @@
             "isDisabled": false,
             "key": "zuuqbmjj5e",
             "isDeprecated": false,
-            "tabName": "1 - Informações do Semovente",
+            "tabName": "Informações do Semovente",
             "rightColumn": 290.25,
             "detachFromLayout": true,
             "dynamicHeight": "AUTO_HEIGHT",
@@ -91,7 +91,7 @@
             "isDisabled": false,
             "key": "zuuqbmjj5e",
             "isDeprecated": false,
-            "tabName": "3 - Fotos do Semovente",
+            "tabName": "Fotos do Semovente",
             "rightColumn": 290.25,
             "detachFromLayout": true,
             "dynamicHeight": "AUTO_HEIGHT",
@@ -133,7 +133,7 @@
             ],
             "key": "ag4k8kg5dm",
             "isDeprecated": false,
-            "tabName": "2 - Dados Complementares",
+            "tabName": "Dados Complementares",
             "rightColumn": 725.625,
             "detachFromLayout": true,
             "dynamicHeight": "AUTO_HEIGHT",
@@ -163,7 +163,7 @@
     "dynamicHeight": "AUTO_HEIGHT",
     "widgetId": "ueixawg83k",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
-    "defaultTab": "1 - Informações do Semovente",
+    "defaultTab": "Informações do Semovente",
     "shouldShowTabs": true,
     "minWidth": 450,
     "tabsObj": {
@@ -172,7 +172,7 @@
             "isDuplicateLabel": false,
             "index": 1,
             "id": "tabfpjp3cfoft",
-            "label": "2 - Dados Complementares",
+            "label": "Dados Complementares",
             "isVisible": true
         },
         "tab1": {
@@ -180,7 +180,7 @@
             "positioning": "vertical",
             "isDuplicateLabel": false,
             "index": 0,
-            "label": "1 - Informações do Semovente",
+            "label": "Informações do Semovente",
             "id": "tab1",
             "isVisible": true
         },
@@ -189,7 +189,7 @@
             "positioning": "vertical",
             "isDuplicateLabel": false,
             "index": 2,
-            "label": "3 - Fotos do Semovente",
+            "label": "Fotos do Semovente",
             "id": "tab2",
             "isVisible": true
         }

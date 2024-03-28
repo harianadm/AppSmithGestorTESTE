@@ -22,14 +22,11 @@
       "selfReferencingDataPaths": [],
       "jsArguments": [
         {
-          "name": "todasConsultas"
-        },
-        {
           "name": "idAnimal"
         }
       ]
     },
-    "executeOnLoad": true,
+    "executeOnLoad": false,
     "dynamicBindingPathList": [
       {
         "key": "body"

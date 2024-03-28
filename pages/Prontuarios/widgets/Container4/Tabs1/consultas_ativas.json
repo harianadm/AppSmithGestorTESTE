@@ -29,10 +29,10 @@
         {"key": "primaryColumns.medico.computedValue"},
         {"key": "primaryColumns.tratamento_medicos.computedValue"},
         {"key": "primaryColumns.animal.computedValue"},
-        {"key": "tableData"},
         {"key": "primaryColumns.customColumn6.computedValue"},
         {"key": "primaryColumns.removido.computedValue"},
-        {"key": "primaryColumns.retorno.computedValue"}
+        {"key": "primaryColumns.retorno.computedValue"},
+        {"key": "tableData"}
     ],
     "needsHeightForContent": true,
     "leftColumn": 0,
@@ -712,7 +712,7 @@
     "textSize": "0.875rem",
     "widgetId": "7hq82qggsw",
     "minWidth": 450,
-    "tableData": "{{filtros.consultasDeUmCao.data}}",
+    "tableData": "{{filtros.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "nw6apsw2qe",

@@ -1,5 +1,6 @@
 export default {
-	
+
+	data: {},
 	caesAtivos (data) {
 		
        let caesAtivosTransformados = data.data.data
@@ -8,13 +9,21 @@ export default {
 
         return caesAtivosTransformados;
 	},
-	consultasDeUmCao(todasConsultas,idAnimal) {
+	consultasDeUmCao(idAnimal) {
 		
-		const consultasDoAnimal = todasConsultas.data.data.filter(consulta => consulta.animal && consulta.animal.id === idAnimal && consulta.removido === false);
-	
-      
+  
 
-        return consultasDoAnimal;
+  getAllConsultas.run().then((response) => {
+		
+		this.data = response.data.filter(consulta => consulta.animal && consulta.animal.id === idAnimal && consulta.removido === false);
+		
+  }).catch(() => {
+		
+  showAlert("O cão não tem nenhuma consulta");
+});
+		return this.data;
+
+	  
 	}
 }
 
