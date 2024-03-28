@@ -51,7 +51,7 @@
     "isDeprecated": false,
     "rightColumn": 60,
     "widgetId": "q7x863iw19",
-    "errorMessage": "email inválido",
+    "errorMessage": "Email inválido",
     "minWidth": 450,
     "label": "Email",
     "parentId": "8cj21k2qvz",
