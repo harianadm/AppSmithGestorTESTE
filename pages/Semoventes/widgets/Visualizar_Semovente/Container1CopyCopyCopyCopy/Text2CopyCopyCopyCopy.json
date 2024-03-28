@@ -20,11 +20,7 @@
     "parentColumnSpace": 5.359619140625,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "fontFamily"}],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Foto da Direita\n",
@@ -33,13 +29,13 @@
     "rightColumn": 35.310344827586206,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "5iyfo5wtl4",
+    "widgetId": "hgqqb499ab",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "lqzufppz3l",
+    "parentId": "pc36kjig4e",
     "tags": [
         "Suggested",
         "Content"

@@ -10,9 +10,8 @@
     "animateLoading": true,
     "leftColumn": 16,
     "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultOptionValue"}
+        {"key": "defaultOptionValue"},
+        {"key": "borderRadius"}
     ],
     "placeholderText": "Select option",
     "isDisabled": true,
@@ -45,10 +44,10 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 27,
-    "widgetId": "exe1n2afc3",
+    "widgetId": "edzcxv71ag",
     "optionValue": "code",
     "minWidth": 450,
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 26,

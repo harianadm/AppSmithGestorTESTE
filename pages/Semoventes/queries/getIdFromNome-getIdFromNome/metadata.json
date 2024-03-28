@@ -30,7 +30,6 @@
       ]
     },
     "executeOnLoad": false,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -43,9 +42,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-02-29T21:18:24Z"
+    "createdAt": "2024-03-28T00:53:43Z"
   },
   "id": "Semoventes_getIdFromNome.getIdFromNome",
   "deleted": false,
-  "gitSyncId": "65840affee8e4a451ee14f66_658df138b958b305ad022a60"
+  "gitSyncId": "65f886c00f108844aba2b2b0_6604bf97f4be0e623e82df6e"
 }

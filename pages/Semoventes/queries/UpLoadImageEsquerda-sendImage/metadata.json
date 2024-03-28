@@ -27,7 +27,6 @@
       ]
     },
     "executeOnLoad": false,
-    "clientSideExecution": true,
     "dynamicBindingPathList": [
       {
         "key": "body"
@@ -40,9 +39,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-02-29T21:18:24Z"
+    "createdAt": "2024-03-28T00:53:43Z"
   },
   "id": "Semoventes_UpLoadImageEsquerda.sendImage",
   "deleted": false,
-  "gitSyncId": "65b3d00d8ae32a1cc10a8f91_65b40f04fd3ad648f0488d4b"
+  "gitSyncId": "65f886c00f108844aba2b2b0_6604bf97f4be0e623e82df6a"
 }

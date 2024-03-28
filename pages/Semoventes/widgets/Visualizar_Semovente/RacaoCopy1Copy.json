@@ -8,9 +8,9 @@
     "resetOnSubmit": true,
     "leftColumn": 2,
     "dynamicBindingPathList": [
+        {"key": "defaultText"},
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultText"}
+        {"key": "borderRadius"}
     ],
     "labelStyle": "",
     "inputType": "NUMBER",
@@ -48,10 +48,10 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 13,
-    "widgetId": "7voe178yte",
+    "widgetId": "h8pz4rowkt",
     "minWidth": 450,
     "label": "Ração Diária",
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 15,

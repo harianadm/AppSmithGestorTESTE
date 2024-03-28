@@ -44,7 +44,7 @@
         },
         {
           "key": "files",
-          "value": "{{foto_direita.files}}",
+          "value": "{{Foto_direita.files}}",
           "type": "File"
         }
       ],
@@ -78,18 +78,18 @@
     "invalids": [],
     "messages": [],
     "jsonPathKeys": [
+      "Foto_direita.files",
       "Foto_direitaUpdate.files",
       "LinkUrl.url_api",
-      "appsmith.store.jwt",
-      "foto_direita.files"
+      "appsmith.store.jwt"
     ],
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-02-29T21:18:24Z"
+    "createdAt": "2024-03-28T00:53:39Z"
   },
   "id": "Semoventes_upload_file_direita",
   "deleted": false,
-  "gitSyncId": "65b3d00d8ae32a1cc10a8f91_65b40d3afd3ad648f0488d49"
+  "gitSyncId": "65f886c00f108844aba2b2b0_2024-03-28T00:53:39.331519736Z"
 }

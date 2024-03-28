@@ -18,11 +18,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "fontFamily"}],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Cadastro Realizado com sucesso\n",
@@ -31,13 +27,13 @@
     "rightColumn": 55,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "qttyr1u9vf",
+    "widgetId": "rw58u5b1wg",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "zqlgq2lwtm",
+    "parentId": "s92fr158il",
     "tags": [
         "Suggested",
         "Content"

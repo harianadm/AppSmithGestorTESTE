@@ -20,7 +20,7 @@
     "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
     "parentColumnSpace": 6.9375,
     "dynamicTriggerPathList": [],
-    "leftColumn": 3,
+    "leftColumn": 4,
     "dynamicBindingPathList": [
         {"key": "truncateButtonColor"},
         {"key": "fontFamily"},
@@ -32,16 +32,16 @@
     "text": "Ao dar baixa do animal, ele será desativado e não podera mais ser colocado em operação",
     "key": "1l0folsz2z",
     "isDeprecated": false,
-    "rightColumn": 57,
+    "rightColumn": 59,
     "textAlign": "CENTER",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "zn0cc9cz4g",
+    "widgetId": "qw7fud81kw",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "ITALIC",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "jkllv63rul",
+    "parentId": "f8d2a3nyup",
     "tags": [
         "Suggested",
         "Content"

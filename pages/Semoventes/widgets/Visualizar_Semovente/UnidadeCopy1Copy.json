@@ -10,10 +10,9 @@
     "animateLoading": true,
     "leftColumn": 2,
     "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"},
         {"key": "sourceData"},
-        {"key": "defaultOptionValue"}
+        {"key": "defaultOptionValue"},
+        {"key": "borderRadius"}
     ],
     "placeholderText": "Localização",
     "isDisabled": true,
@@ -46,10 +45,10 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 27,
-    "widgetId": "gpakpepdan",
+    "widgetId": "pr9co75dzo",
     "optionValue": "id",
     "minWidth": 450,
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 11,

@@ -20,11 +20,7 @@
     "parentColumnSpace": 5.359619140625,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "fontFamily"}],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Foto da Esquerda",
@@ -33,13 +29,13 @@
     "rightColumn": 35.310344827586206,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "34d9rxkb6j",
+    "widgetId": "vc9wrdi4u1",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "7033koak97",
+    "parentId": "fne3rcno7m",
     "tags": [
         "Suggested",
         "Content"
