@@ -5,5 +5,5 @@ commitizen:
   major_version_zero: true
   version: 1.0.0
   jira_prefix: XXX-
-  jira_base_url: https://slaveone-leds.atlassian.net/
-  github_repo: <link do repositório>
+  jira_base_url: https://bac-pm-es.atlassian.net/
+  github_repo: https://github.com/Bac-PM/AppSmithGestor
