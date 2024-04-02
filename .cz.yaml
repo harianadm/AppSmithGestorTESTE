@@ -1,0 +1,9 @@
+commitizen:
+  name: cz_github_jira_conventional
+  tag_format: v$version
+  update_changelog_on_bump: true
+  major_version_zero: true
+  version: 1.0.0
+  jira_prefix: XXX-
+  jira_base_url: https://slaveone-leds.atlassian.net/
+  github_repo: <link do repositório>
