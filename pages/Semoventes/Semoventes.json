@@ -52,17 +52,6 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "Semoventes_get_animals_painel",
-              "name": "get_animals_painel",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "LinkUrl.url_api",
-                "appsmith.store.jwt"
-              ],
-              "timeoutInMillisecond": 10000
-            },
-            {
               "id": "Semoventes_get_condutor",
               "name": "get_condutor",
               "confirmBeforeExecute": false,
@@ -76,6 +65,19 @@
             {
               "id": "Semoventes_get_unidades",
               "name": "get_unidades",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "LinkUrl.url_api",
+                "appsmith.store.jwt"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ],
+          [
+            {
+              "id": "Semoventes_get_animals_painel",
+              "name": "get_animals_painel",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
