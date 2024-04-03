@@ -8,9 +8,9 @@
     "resetOnSubmit": true,
     "leftColumn": 16,
     "dynamicBindingPathList": [
+        {"key": "defaultText"},
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultText"}
+        {"key": "borderRadius"}
     ],
     "labelStyle": "",
     "inputType": "TEXT",
@@ -48,10 +48,10 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 27,
-    "widgetId": "hyac4k9w41",
+    "widgetId": "er94vslc6v",
     "minWidth": 450,
     "label": "Box/Localização",
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 15,

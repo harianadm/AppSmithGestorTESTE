@@ -26,11 +26,8 @@
     "parentColumnSpace": 14.26171875,
     "dynamicTriggerPathList": [{"key": "onDataPointClick"}],
     "dynamicBindingPathList": [
-        {"key": "customEChartConfig"},
         {"key": "borderRadius"},
-        {"key": "boxShadow"},
-        {"key": "accentColor"},
-        {"key": "fontFamily"}
+        {"key": "boxShadow"}
     ],
     "leftColumn": 1,
     "customFusionChartConfig": {
@@ -87,12 +84,12 @@
     "key": "hfr9c00s1j",
     "isDeprecated": false,
     "rightColumn": 32,
-    "widgetId": "7ndssz9akt",
+    "widgetId": "6lj61w14av",
     "accentColor": "{{appsmith.theme.colors.primaryColor}}",
     "minWidth": 450,
     "isVisible": true,
     "version": 1,
-    "parentId": "czt2nvvm63",
+    "parentId": "09rlxegvg8",
     "labelOrientation": "auto",
     "tags": ["Display"],
     "renderMode": "CANVAS",

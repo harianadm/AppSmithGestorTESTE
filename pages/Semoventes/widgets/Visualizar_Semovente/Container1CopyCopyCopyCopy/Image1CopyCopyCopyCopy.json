@@ -16,8 +16,8 @@
     "imageShape": "RECTANGLE",
     "leftColumn": 37.51724137931034,
     "dynamicBindingPathList": [
-        {"key": "borderRadius"},
-        {"key": "defaultImage"}
+        {"key": "defaultImage"},
+        {"key": "borderRadius"}
     ],
     "defaultImage": "{{LinkUrl.url_App_Smith + Table1Copy.triggeredRow.Foto_direita.url}}",
     "flexVerticalAlignment": "start",
@@ -26,10 +26,10 @@
     "isDeprecated": false,
     "rightColumn": 64,
     "objectFit": "cover",
-    "widgetId": "a2fccrlsgl",
+    "widgetId": "sf168t97h7",
     "isVisible": true,
     "version": 1,
-    "parentId": "lqzufppz3l",
+    "parentId": "pc36kjig4e",
     "tags": ["Media"],
     "renderMode": "CANVAS",
     "isLoading": false,

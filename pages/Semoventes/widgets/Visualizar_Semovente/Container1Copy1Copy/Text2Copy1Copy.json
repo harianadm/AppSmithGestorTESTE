@@ -20,11 +20,7 @@
     "parentColumnSpace": 5.359619140625,
     "dynamicTriggerPathList": [],
     "leftColumn": 0,
-    "dynamicBindingPathList": [
-        {"key": "truncateButtonColor"},
-        {"key": "fontFamily"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "fontFamily"}],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Foto Frontal",
@@ -33,13 +29,13 @@
     "rightColumn": 35.310344827586206,
     "textAlign": "LEFT",
     "dynamicHeight": "AUTO_HEIGHT",
-    "widgetId": "mqi2ffbzdl",
+    "widgetId": "gpkbo4onwq",
     "minWidth": 450,
     "isVisible": true,
     "fontStyle": "BOLD",
     "textColor": "#231F20",
     "version": 1,
-    "parentId": "8dk5yg2d86",
+    "parentId": "dprjcv43fe",
     "tags": [
         "Suggested",
         "Content"

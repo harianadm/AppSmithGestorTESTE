@@ -8,9 +8,9 @@
     "resetOnSubmit": true,
     "leftColumn": 33,
     "dynamicBindingPathList": [
+        {"key": "defaultText"},
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultText"}
+        {"key": "borderRadius"}
     ],
     "labelStyle": "",
     "inputType": "MULTI_LINE_TEXT",
@@ -49,10 +49,10 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 62,
-    "widgetId": "28b8l0bhkk",
+    "widgetId": "e5n9e5deom",
     "minWidth": 450,
     "label": "Justificativa Baixado",
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 6,

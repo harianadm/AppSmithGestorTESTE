@@ -8,9 +8,9 @@
     "animateLoading": true,
     "leftColumn": 2,
     "dynamicBindingPathList": [
+        {"key": "defaultDate"},
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultDate"}
+        {"key": "borderRadius"}
     ],
     "isDisabled": true,
     "isRequired": false,
@@ -43,10 +43,10 @@
     "defaultDate": "{{Table1Copy.triggeredRow.Data_nascimento}}",
     "isDeprecated": false,
     "rightColumn": 14,
-    "widgetId": "dea2jy63mi",
+    "widgetId": "za8imox4gf",
     "minWidth": 450,
     "label": "Data Nascimento",
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 26,

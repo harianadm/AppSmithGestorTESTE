@@ -10,10 +10,9 @@
     "animateLoading": true,
     "leftColumn": 2,
     "dynamicBindingPathList": [
-        {"key": "accentColor"},
-        {"key": "borderRadius"},
         {"key": "sourceData"},
-        {"key": "defaultOptionValue"}
+        {"key": "defaultOptionValue"},
+        {"key": "borderRadius"}
     ],
     "placeholderText": "Selecione o condutor principal",
     "isDisabled": true,
@@ -47,10 +46,10 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 27,
-    "widgetId": "wot5v7i2c0",
+    "widgetId": "ca9ib212x2",
     "optionValue": "id",
     "minWidth": 450,
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 18,

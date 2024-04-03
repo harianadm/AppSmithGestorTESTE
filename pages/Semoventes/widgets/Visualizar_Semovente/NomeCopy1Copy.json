@@ -8,9 +8,9 @@
     "resetOnSubmit": true,
     "leftColumn": 2,
     "dynamicBindingPathList": [
+        {"key": "defaultText"},
         {"key": "accentColor"},
-        {"key": "borderRadius"},
-        {"key": "defaultText"}
+        {"key": "borderRadius"}
     ],
     "labelStyle": "",
     "inputType": "TEXT",
@@ -48,10 +48,10 @@
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
     "rightColumn": 31,
-    "widgetId": "pt4dvwusyc",
+    "widgetId": "6i4rxt0m6h",
     "minWidth": 450,
     "label": "Nome",
-    "parentId": "26jmpjnmlr",
+    "parentId": "xlh2ss5s4w",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
     "mobileTopRow": 6,
