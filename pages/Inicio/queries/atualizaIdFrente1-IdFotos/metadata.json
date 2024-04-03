@@ -16,7 +16,7 @@
     "pageId": "Inicio",
     "collectionId": "Inicio_atualizaIdFrente1",
     "actionConfiguration": {
-      "timeoutInMillisecond": 0,
+      "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
       "encodeParamsToggle": true,
       "selfReferencingDataPaths": [],
@@ -34,7 +34,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2024-04-03T17:17:00Z"
   },
   "id": "Inicio_atualizaIdFrente1.IdFotos",
   "deleted": false,

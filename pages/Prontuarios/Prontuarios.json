@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 87,
+          "version": 89,
           "minHeight": 810,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
@@ -37,7 +37,9 @@
                 "appsmith.store.jwt"
               ],
               "timeoutInMillisecond": 10000
-            },
+            }
+          ],
+          [
             {
               "id": "Prontuarios_get_all_animals_someventes",
               "name": "get_all_animals_someventes",
