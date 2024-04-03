@@ -3,6 +3,7 @@
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
     "name": "update_semoventeCopy",
+    "fullyQualifiedName": "update_semoventeCopy",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -95,9 +96,9 @@
     "confirmBeforeExecute": false,
     "policies": [],
     "userPermissions": [],
-    "createdAt": "2024-03-28T00:53:39Z"
+    "createdAt": "2024-04-03T19:07:32Z"
   },
   "id": "Semoventes_update_semoventeCopy",
   "deleted": false,
-  "gitSyncId": "65f886c00f108844aba2b2b0_2024-03-28T00:53:39.331916938Z"
+  "gitSyncId": "660d8da930fcf352aea7bd98_660da8f430fcf352aea7bf82"
 }
