@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "ImagemLocal",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "frente",
+        "value": "\"\""
+      },
+      {
+        "name": "direita",
+        "value": "\"\""
+      },
+      {
+        "name": "esquerda",
+        "value": "\"\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_ImagemLocal",
+  "deleted": false,
+  "gitSyncId": "660d8f0930fcf352aea7be25_660daa3230fcf352aea7c005"
+}

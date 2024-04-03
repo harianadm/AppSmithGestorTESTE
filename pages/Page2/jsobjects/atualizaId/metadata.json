@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "atualizaId",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "idFrente",
+        "value": "Table1.triggeredRow.Foto_frente.id"
+      },
+      {
+        "name": "idDireita",
+        "value": "Table1.triggeredRow.Foto_direita.id"
+      },
+      {
+        "name": "idEsquerda",
+        "value": "Table1.triggeredRow.Foto_esquerda.id"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_atualizaId",
+  "deleted": false,
+  "gitSyncId": "660d8f0930fcf352aea7be25_660daa3230fcf352aea7bff9"
+}

@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "Desabilitar_botoes",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Page2_Desabilitar_botoes",
+  "deleted": false,
+  "gitSyncId": "660d8f0930fcf352aea7be25_660daa3230fcf352aea7bff5"
+}
